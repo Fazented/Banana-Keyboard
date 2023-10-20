@@ -34,7 +34,7 @@ Then, wire each remaining pin on the switches to data pins on the Pro Micro. I u
 [ image here soon ]
 
 There are small holes on the model meant to fit 2 small magnets to hold the case together, about 3.5mm square. 
-If you do not have these magnets you could glue/tape the two halves together, or contact me to update the model at [finnjmasters@gmail.com](mailto:finnjmasters@gmail.com)
+If you do not have these magnets you could glue/tape the two halves together, or contact me with the email below.
 
 
 [ image here soon ]
