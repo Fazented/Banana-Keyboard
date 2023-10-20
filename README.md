@@ -1,9 +1,9 @@
 # Banana-Keyboard
 ### A 3D printed &amp; hand wired 6 key Arduino keyboard, shaped like a banana.
 
-Inspired by designs I have seen online, such as Dan Bostian's [Banana](https://github.com/dbostian/banana).
-
 [ image here soon ]
+
+Inspired by designs I have seen online, such as Dan Bostian's [Banana](https://github.com/dbostian/banana).
 
 ### Materials Needed
 
