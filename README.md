@@ -50,4 +50,5 @@ The pins and letters can easily be defined at the top so you can quickly change 
 
 
 For any issues, contact me at [finnjmasters@gmail.com](mailto:finnjmasters@gmail.com)
+
 \* The MIDI code does not work as expected yet, I will need to test more. Or if you can fix the code, please submit a pull request.
